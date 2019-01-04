@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/lucene/learn/analyzer/ExtDicTest.java=UTF-8
+encoding//src/main/java/com/lucene/learn/analyzer/IKTokenizer6x.java=GBK
+encoding//src/main/resources/ext.dic=UTF-8
+encoding//src/main/resources/ext_stopword.dic=UTF-8
